@@ -7,15 +7,7 @@ Addition: Adds two numbers.
 Subtraction: Subtracts the second number from the first.
 Multiplication: Multiplies two numbers.
 Division: Divides the first number by the second, with error handling for division by zero.
-Usage
-Clone the Repository:
-git clone https://github.com/yourusername/calculator-project.git
-Navigate to the Project Directory:
-cd calculator-project
-Run the Script:
-python calculator.py
-Follow the Prompts:
-
+Usage:
 Choose an operation (1/2/3/4).
 Enter two numbers for the chosen operation.
 View the result displayed on the screen.
